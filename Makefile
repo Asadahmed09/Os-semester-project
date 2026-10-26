@@ -2,6 +2,7 @@
 # OS Semester Project: System Call Tracer
 #
 # 24k-1013  Asad Ahmed       -> ptrace_engine.cpp
+# every main thing is handled by ptrace , the main runner of the whole system
 # 24k-0791  Shahnawaz Khuwaja -> syscall_table.cpp
 # 24k-0865  Lucky             -> cli_metrics.cpp
 # (shared)                    -> sys_trace_main.cpp
